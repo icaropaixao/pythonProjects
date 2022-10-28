@@ -6,7 +6,7 @@
     para homens (72.7 * altura) - 58
     para mulheres (62.1 * altura) - 44.7
 '''
-# .lower() serve para converter os caracteres de maiusculo para minusculo
+# .lower() serve para converter os caracteres da variavel de maiusculo para minusculo
 
 sexo = str(input("Informe seu sexo m(masculino) ou f(feminino): "))
 altura = float(input("Informe sua altura"))
